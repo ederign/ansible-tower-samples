@@ -3,6 +3,5 @@
   tasks:
     - name: Hello Message
       debug:
-        var:
-          var: variable
+        var: variable
 
