@@ -4,6 +4,5 @@
     - name: Hello Message
       debug:
         var:
-          - variable
-          - variable2
+          var: variable
 
