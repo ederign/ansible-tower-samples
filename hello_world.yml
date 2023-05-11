@@ -3,7 +3,6 @@
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World!"
         var:
           - variable
           - variable2
